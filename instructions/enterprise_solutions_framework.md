@@ -17,5 +17,6 @@ Our [Product/Service] integrates seamlessly with your existing infrastructure, p
 
 We're looking forward to discussing a strategic partnership and how we can support [Enterprise Name] in achieving its objectives.
 
+
 Sincerely,
 [Your Name]
